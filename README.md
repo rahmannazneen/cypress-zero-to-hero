@@ -65,7 +65,10 @@ Once Cypress is installed, open the Cypress Test Runner:
 # 🎉 Cypress Interface
 If everything is set up correctly, you should see the Cypress interface pop up, allowing you to start writing your tests.
 
-![Alt Text]![image](https://github.com/user-attachments/assets/6cd6d868-a4e6-4e4c-9e60-c6cdf01cc82f)
+![Alt Text](https://github.com/user-attachments/assets/6cd6d868-a4e6-4e4c-9e60-c6cdf01cc82f)
+
+
+
 
 
 
