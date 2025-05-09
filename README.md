@@ -12,9 +12,8 @@ This guide will help you set up Cypress in your JavaScript-based project from sc
 - **Recommended:** Node.js **version 20** or the **latest LTS version**.
 - Check if installed using the following commands:
 
-```bash
-node -v
-npm -v
+![Uploading image.png…]()
+
 
 
 ### 2. A Code Editor
