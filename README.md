@@ -38,7 +38,38 @@ After installing Node.js and npm, follow these steps to set up Cypress:
 
 ### 2. Navigate to Your Desired Drive
 
-Choose the drive where you want to store your Cypress project. For example, if you want to store it in the **D drive**, type:
+You can choose the drive where you want to store your Cypress project. 
 
-```bash
-d:
+![Alt Text](https://github.com/user-attachments/assets/5fc6103d-8acc-46d7-bd70-257ff477da47)
+
+3. Create a New Project Directory
+Create a new folder for your Cypress project by typing the following command:
+
+
+4. Navigate to the Project Directory
+Go into your newly created directory:
+
+
+
+5. List the Contents (Optional)
+You can check the contents of your directory by typing:
+
+
+6. Initialize a New npm Project
+Now, initialize a new npm project by running:
+
+
+This will create a package.json file in your project.
+
+7. Install Cypress
+Install Cypress as a development dependency:
+
+
+8. Open Cypress
+Once Cypress is installed, open the Cypress Test Runner:
+
+
+
+
+
+
