@@ -60,7 +60,12 @@ Install Cypress as a development dependency:
 Once Cypress is installed, open the Cypress Test Runner:
 ![Alt Text](https://github.com/user-attachments/assets/df574918-4644-4fbe-961b-c880c4f0463d)
 
+---
 
+# 🎉 Cypress Interface
+If everything is set up correctly, you should see the Cypress interface pop up, allowing you to start writing your tests.
+
+![Alt Text]![image](https://github.com/user-attachments/assets/6cd6d868-a4e6-4e4c-9e60-c6cdf01cc82f)
 
 
 
