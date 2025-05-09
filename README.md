@@ -37,39 +37,27 @@ After installing Node.js and npm, follow these steps to set up Cypress:
 - Press `Win + X` and choose **Windows PowerShell**.
 
 ### 2. Navigate to Your Desired Drive
-
 You can choose the drive where you want to store your Cypress project. 
 
 ### 3. Create a New Project Directory
-
 Create a new folder for your Cypress project by typing the following command:
 ![Alt Text](https://github.com/user-attachments/assets/44707c7b-c3ca-4feb-9b5f-78d216655826)
 
 ### 4. Navigate to the Project Directory
-
 Go into your newly created directory:
 ![Alt Text](https://github.com/user-attachments/assets/fecd6d18-7bab-48d2-8d91-c21ae33e3131)
-
-
-
-
-
 
 ### 5. Initialize a New npm Project
 Now, initialize a new npm project by running:
 ![Alt Text](https://github.com/user-attachments/assets/4e12b633-c643-4ce0-831c-39d88666d82c)
-
 This will create a package.json file in your project.
 
-7. Install Cypress
+### 6. Install Cypress
 Install Cypress as a development dependency:
 ![Alt Text](https://github.com/user-attachments/assets/90b94258-46be-44a1-9fdc-5312743ab56a)
 
-
-
-9. Open Cypress
+### 7. Open Cypress
 Once Cypress is installed, open the Cypress Test Runner:
-
 ![Alt Text](https://github.com/user-attachments/assets/df574918-4644-4fbe-961b-c880c4f0463d)
 
 
