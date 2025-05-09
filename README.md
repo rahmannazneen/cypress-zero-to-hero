@@ -34,7 +34,7 @@ After installing Node.js and npm, follow these steps to set up Cypress:
 
 ### 1. Open PowerShell
 
-- Press `Win + X` and choose **Windows PowerShell**.
+- Press the Windows icon and choose **Windows PowerShell**.
 
 ### 2. Navigate to Your Desired Drive
 You can choose the drive where you want to store your Cypress project. 
