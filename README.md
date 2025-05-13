@@ -17,9 +17,6 @@ node -v
 npm -v
 ```
 
-![Alt Text](https://github.com/user-attachments/assets/4b4caa53-04fa-4bdf-9e90-3cece484e929)
-
-
 
 
 ### 2. A Code Editor
