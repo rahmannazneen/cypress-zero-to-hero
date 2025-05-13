@@ -51,7 +51,9 @@ Go into your newly created directory:
 
 ### 5. Initialize a New npm Project
 Now, initialize a new npm project by running:
-![Alt Text](https://github.com/user-attachments/assets/4e12b633-c643-4ce0-831c-39d88666d82c)
+```
+npm init -y
+```
 This will create a package.json file in your project.
 
 ### 6. Install Cypress
