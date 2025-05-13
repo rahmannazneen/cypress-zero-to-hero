@@ -43,7 +43,7 @@ You can choose the drive where you want to store your Cypress project.
 
 ### 3. Create a New Project Directory
 Create a new folder for your Cypress project by typing the following command:
-![Alt Text](https://github.com/user-attachments/assets/44707c7b-c3ca-4feb-9b5f-78d216655826)
+
 ```
 mkdir cypress-project
 
@@ -51,8 +51,9 @@ mkdir cypress-project
 
 ### 4. Navigate to the Project Directory
 Go into your newly created directory:
-![Alt Text](https://github.com/user-attachments/assets/fecd6d18-7bab-48d2-8d91-c21ae33e3131)
-
+```
+cd .\cypress-project\
+```
 ### 5. Initialize a New npm Project
 Now, initialize a new npm project by running:
 ```
