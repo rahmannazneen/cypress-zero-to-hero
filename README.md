@@ -58,11 +58,16 @@ This will create a package.json file in your project.
 
 ### 6. Install Cypress
 Install Cypress as a development dependency:
-![Alt Text](https://github.com/user-attachments/assets/90b94258-46be-44a1-9fdc-5312743ab56a)
+```
+npm install cypress --save-dev
+```
+
 
 ### 7. Open Cypress
 Once Cypress is installed, open the Cypress Test Runner:
-![Alt Text](https://github.com/user-attachments/assets/df574918-4644-4fbe-961b-c880c4f0463d)
+```
+npx cypress open
+```
 
 ---
 
